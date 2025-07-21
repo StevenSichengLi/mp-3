@@ -88,8 +88,8 @@ export default function Proj() {
                         <Image src="../../../public/CoffeePackagingPreview.jpg" alt="Packaging Design Preview" />
                     </LeftColumn>
                     <RightColumn>
-                        <RightImage src="../../../public/Untitled 32.jpg" alt="Packaging Prototypes #1" />
-                        <RightImage src="../../../public/Untitled 33.jpg" alt="Packaging Prototypes #2" />
+                        <RightImage src="../../../public/untitled-32.jpg" alt="Packaging Prototypes #1" />
+                        <RightImage src="../../../public/untitled-33.jpg" alt="Packaging Prototypes #2" />
                     </RightColumn>
                 </ImgWrapper>
                 <AfterImageText>

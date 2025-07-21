@@ -1,4 +1,3 @@
-import Header from "./Header.tsx";
 import Nav from "./Nav.tsx";
 import Footer from "./Footer.tsx";
 import {Routes, Route} from "react-router";

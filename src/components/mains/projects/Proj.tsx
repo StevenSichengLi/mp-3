@@ -89,7 +89,7 @@ export default function Proj() {
                     </LeftColumn>
                     <RightColumn>
                         <RightImage src="/untitled-32.jpg" alt="Packaging Prototypes #1" />
-                        <RightImage src="/public/untitled-33.jpg" alt="Packaging Prototypes #2" />
+                        <RightImage src="/untitled-33.jpg" alt="Packaging Prototypes #2" />
                     </RightColumn>
                 </ImgWrapper>
                 <AfterImageText>

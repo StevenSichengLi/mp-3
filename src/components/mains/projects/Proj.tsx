@@ -85,7 +85,7 @@ export default function Proj() {
                 <h3>My Personal Website Project</h3>
                 <ImgWrapper>
                     <LeftColumn>
-                        <Image src="../../../public/CoffeePackagingPreview.jpg" alt="Packaging Design Preview" />
+                        <Image src="/CoffeePackagingPreview.jpg" alt="Packaging Design Preview" />
                     </LeftColumn>
                     <RightColumn>
                         <RightImage src="/untitled-32.jpg" alt="Packaging Prototypes #1" />

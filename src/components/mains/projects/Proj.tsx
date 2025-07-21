@@ -3,6 +3,7 @@ import styled from "styled-components";
 
 const Main = styled.main`
     padding: 2%;
+    height: 100vh;
 `;
 
 const ImgWrapper = styled.div`

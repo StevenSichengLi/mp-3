@@ -112,6 +112,7 @@ export default function Proj() {
                     <Button onClick={clear}>Clear</Button>
 
                     {/*} && acts as a safety */}
+                    {/*} renders the output based on their values (negative:red, positive:black) */}
                     {result && Number(result) < 0 ? (
                         <OutputNegative>{result}</OutputNegative>
                     ) : (
